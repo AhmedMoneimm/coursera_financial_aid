@@ -28,7 +28,7 @@ It would help me continue my dream of working in this specialization and start e
 ![Step 7 screenshot](https://images.tango.us/workflows/e66fa664-2062-4898-ab04-e609c864e687/steps/27edf690-39da-40a9-9d01-44e3247ff8bf/7773c790-e338-4ac9-bff9-7b67ce5a0c3c.png)
 
 
-### 8. Make it zero, then paste the same text 
+### 8. Make it zero, then paste the same text thta's in step 6
 ![Step 8 screenshot](https://images.tango.us/workflows/e66fa664-2062-4898-ab04-e609c864e687/steps/35b7fe70-f406-43ca-8af3-62f0734a41b7/9d493a5f-b0ba-452b-91d1-d06e09710469.png)
 
 
